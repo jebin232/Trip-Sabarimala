@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Trip-Sabarimala",
+    "slug": "Trip-Sabarimala",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/சபரிமலை ஐயப்பன்icon3.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/சபரிமலை ஐயப்பன் (3).png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "Trip-Sabarimala"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/சபரிமலை ஐயப்பன்icon3.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.jebin_232.newgov"
+    },
+    "web": {
+      "favicon": "./assets/சபரிமலை ஐயப்பன்icon3.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f55f18c8-f350-40c0-ba35-c832453760ea"
+      }
+    }
+  }
+}

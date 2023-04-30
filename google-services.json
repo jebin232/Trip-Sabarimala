@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "273322207465",
+    "project_id": "tesk-90567",
+    "storage_bucket": "tesk-90567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273322207465:android:4e85c64f561ca1e1aee878",
+        "android_client_info": {
+          "package_name": "com.jebin_232.newgov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273322207465-p0id2idk44d2tpdealsvk9oaet59j57p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jebin_232.newgov",
+            "certificate_hash": "87ce4bd893d9bd1f34a8752756323e802e3546af"
+          }
+        },
+        {
+          "client_id": "273322207465-ajajemsnlau3dssgnq17h4b1lqdpnpa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmG0YVMZqUMBKc2NfSRKkbBvDkqnZpsAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273322207465-ajajemsnlau3dssgnq17h4b1lqdpnpa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
